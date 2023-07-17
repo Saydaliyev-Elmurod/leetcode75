@@ -1,4 +1,4 @@
-package leetcode75.SolutionTen.three;
+package leetcode75.ArrayString.three;
 
 import java.util.ArrayList;
 import java.util.List;

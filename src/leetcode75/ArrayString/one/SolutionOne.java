@@ -1,4 +1,4 @@
-package leetcode75.SolutionTen.one;
+package leetcode75.ArrayString.one;
 
 public class SolutionOne {
     public static void main(String[] args) {
