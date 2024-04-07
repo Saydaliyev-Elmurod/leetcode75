@@ -1,40 +1,56 @@
 package leetcode75.stack;
 
 class MyCircularQueue {
+    /**
+     * Queue data structure
+     * Navbat desak boladi
+     * First Input First OutPut
+     */
+
+    // bu queue size boladi va u o'zgarmas
     int size;
-    int count;
+    // bu queue head  index yana chiqib kirish uchun turgan element
     int headIndex;
+    // bu queuedagi elementlar soni
+    int count;
     int[] arr;
 
     public MyCircularQueue(int k) {
-        this.size = k;
+        // k size ga ega array yaratamiz
         arr = new int[k];
-        count = 0;
+        this.size = k;// queue o'lchamini size ga tenglashtiramiz
+        count = 0; // queue yaratilganda elementlar soni 0 ta boladi
     }
 
     public boolean enQueue(int value) {
-        // handle full case
+        // Queue ga yangi element qoshilyapti
         if (isFull()) return false;
-        // set the value
-        // Given an array of size of 4, we can find the position to be inserted using the formula
-        // targetIdx = (headIdx + cnt) % sz
-        // e.g. [1, 2, 3, _]
-        // headIdx = 0, cnt = 3, sz = 4, targetIdx = (0 + 3) % 4 = 3
-        // e.g. [_, 2, 3, 4]
-        // headIdx = 1, cnt = 3, sz = 4, targetIdx = (1 + 3) % 4 = 0
+        // Queue ga insert qilishdan oldin
+        // Queue arrayning qaysi index isiga insert bolishini aniqlab olishimiz kerak
+        // headIndex (arrayning boshi) va count ta element bor bizda
+        // keyingi element headIndex+count indexga joylashishi kerak
+        // lekin hIndex+count arraynign sizedan oshib ketishi mumkin
+        // agar oshib ketsa arrayning boshiga insert qilinishi kerak agar tolmasa
+        // index = (headIndex+count)%size
+        // [_,_,3,4,5] -> 1 -> headIndex = 2; count = 3;size = 5 ; index = (5%5)=0;
+        // [1,_,3,4,5] -> 7 -> headIndex = 2; count = 4 ;size = 5 ; index = (6%5)=1;
         arr[(headIndex + count) % size] = value;
-        // increase the number of elements by 1
-        count += 1;
+        count++;
         return true;
     }
 
     public boolean deQueue() {
-        // handle empty case
+        // queue dan element ni o'chirish
+        // element ni null ga aylantirish  kerak lekin primitive tip bolgani uchun
+        // null ga aylantira olmaymiz
+        // headIndex bittaga oshib ketadi lekin headIndex
+        // arrayning oxirida bolsa arrayning boshiga qaytishi kerak
+        // [1,2,3] ->[_,2,3] ->[_,_,3]  headIndex = 2
+        // insert qilamiz
+        // [4,_,3] headIndex = 2 ochiramiz [4,_,_] headIndex = 0;
         if (isEmpty()) return false;
-        // update the head index
         headIndex = (headIndex + 1) % size;
-        // decrease the number of elements by 1
-        count -= 1;
+        count--;
         return true;
     }
 
@@ -44,16 +60,7 @@ class MyCircularQueue {
     }
 
     public int Rear() {
-        // handle empty queue case
         if (isEmpty()) return -1;
-        // Given an array of size of 4, we can find the tailIdx using the formula
-        // tailIdx = (headIdx + cnt - 1) % sz
-        // e.g. [0 1 2] 3
-        // headIdx = 0, cnt = 3, sz = 4, tailIdx = (0 + 3 - 1) % 4 = 2
-        // e.g. 0 [1 2 3]
-        // headIdx = 1, cnt = 3, sz = 4, tailIdx = (1 + 3 - 1) % 4 = 3
-        // e.g. 0] 1 [2 3
-        // headIdx = 2, cnt = 3, sz = 4, tailIdx = (2 + 3 - 1) % 4 = 0
         return arr[(headIndex + count - 1) % size];
     }
 
