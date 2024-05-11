@@ -1,4 +1,4 @@
-package leetcode75.tree.search.validate;
+package leetcode75.tree.search.search;
 
 import leetcode75.tree.levelOrder.TreeNode;
 
@@ -18,10 +18,14 @@ import leetcode75.tree.levelOrder.TreeNode;
  * }
  */
 class Solution {
-    public boolean isValidBST(TreeNode root) {
-        if (root != null) {
-
+    public TreeNode searchBST(TreeNode root, int val) {
+        if (root == null) return null;
+        if (root.val > val) {
+            return searchBST(root.left, val);
+        } else if (root.val < val) {
+            return searchBST(root.right, val);
+        } else {
+            return root;
         }
-        return true;
     }
 }
