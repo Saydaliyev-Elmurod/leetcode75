@@ -4,6 +4,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println(comment("{payment} order ,{orderNumber} buyurtma raqami "));
         List<Option> options = new ArrayList<>();
         Option option = new Option(UUID.fromString("230a96a7-1e22-49d3-b631-016cba2df95d"), null, 1.0);
         Option childOption = new Option(UUID.fromString("230a96a7-1e22-49d3-b631-016cba2df96d"), UUID.fromString("230a96a7-1e22-49d3-b631-016cba2df95d"), 2.0);
@@ -13,6 +14,32 @@ public class Main {
         options.add(childChildOption);
 //        getLastOption(options);
 //        System.out.println(calculatePriceOfLastOptionWithParents(options));
+    }
+    public static String comment(
+            String comment ) {
+        if (comment == null || comment.isBlank()) {
+            return "Client : " + "order.comment()";
+        }
+        if (comment.contains("{orderNumber}")) {
+            comment = comment.replace("{orderNumber}", "123");
+        }
+        if (comment.contains("{payment}")) {
+            if ("otherTypeResponse" == null) {
+                comment = comment.replace("{payment}", "P");
+            } else {
+                comment = comment.replace("{payment}","a");
+            }
+        }
+        if (comment.contains("{isPaid}")) {
+            comment = comment.replace("{isPaid}", true ? "To'landi" : "To'lanmadi");
+        }
+        if (comment.contains("{totalPrice}")) {
+            comment = comment.replace("{totalPrice}", 123+"" );
+        }
+        if (comment.contains("{eats}")) {
+            comment = comment.replace("{eats}", "order.eatsId()");
+        }
+        return comment + " Buyurtmachi : " + "order.comment()";
     }
 
     private static Option getLastOption(final List<Option> options) {
