@@ -1,6 +1,7 @@
 package leetcode75.design.rangeSum;
 
 class NumArray {
+    //https://leetcode.com/problems/range-sum-query-immutable/
     private int[] arr;
 
     public NumArray(int[] nums) {
