@@ -1,4 +1,4 @@
-package leetcode75.design;
+package leetcode75.design.parkingSystem;
 
 public class Main {
     public static void main(String[] args) {

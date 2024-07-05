@@ -1,4 +1,4 @@
-package leetcode75.design;
+package leetcode75.design.parkingSystem;
 
 class ParkingSystem {
     int big;
