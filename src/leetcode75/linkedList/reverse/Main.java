@@ -1,6 +1,7 @@
 package leetcode75.linkedList.reverse;
 
-import leetcode75.sorting.ListNode;
+
+import leetcode75.linkedList.ListNode;
 
 public class Main {
     public static void main(String[] args) {
