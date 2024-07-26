@@ -1,4 +1,2 @@
-She sells sea shells on the sea shore;
-The shells that she sells are sea shells I'm sure. 6
-So if she sells sea shells on the sea shore, 2
-I'm sure that the shells are sea shore shells.
+5
+1 2 3 4 5
