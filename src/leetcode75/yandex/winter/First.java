@@ -2,7 +2,7 @@ package leetcode75.yandex.winter;
 
 import java.io.*;
 
-public class Main {
+public class First {
 
   /*
   Для чтения входных данных необходимо получить их
