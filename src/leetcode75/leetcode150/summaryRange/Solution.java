@@ -1,4 +1,4 @@
-package leetcode75.leetcode150;
+package leetcode75.leetcode150.summaryRange;
 
 import java.util.ArrayList;
 import java.util.List;
