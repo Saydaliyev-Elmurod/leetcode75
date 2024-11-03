@@ -1,11 +1,8 @@
 package leetcode75.yandex.trenovka6.hw2;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.stream.Collectors;
 
-public class Second {
+public class B {
 
     public static void main(String[] args) throws IOException {
         //5 17

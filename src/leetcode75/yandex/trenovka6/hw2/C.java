@@ -2,7 +2,7 @@ package leetcode75.yandex.trenovka6.hw2;
 
 import java.io.*;
 
-public class Three {
+public class C {
 
     public static void main(String[] args) throws IOException {
         //5 17
