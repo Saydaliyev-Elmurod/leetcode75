@@ -2,35 +2,46 @@ package leetcode75.yandex.cup;
 
 import java.io.*;
 
-public class First {
+public class Threee {
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-//    BufferedReader reader = new BufferedReader(new FileReader("test.txt"));
+//        BufferedReader reader = new BufferedReader(new FileReader("test.txt"));
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
-        Integer t = Integer.valueOf(reader.readLine());
-
-        while (t-- > 0) {
-            Integer n = Integer.valueOf(reader.readLine());
-            String[] arr = reader.readLine().split(" ");
-            int res = 0;
-            if (n < 3) {
-                res = 0;
-            }else{
-                res = calculate(arr);
+        String line = reader.readLine();
+        String[] arr = line.split("");
+        int coordinate1 = 0;
+        int coordinate2 = 0;
+        int max1 = 0;
+        int max2 = 0;
+        int min1 = 0;
+        int min2 = 0;
+        for (String s : arr) {
+            switch (s) {
+                case "R" -> {
+                    coordinate1++;
+                    coordinate2++;
+                    max1 = Math.max(coordinate1, max1);
+                    max2 = Math.max(coordinate2, max2);
+                }
+                case "L" -> {
+                    coordinate1--;
+                    coordinate2--;
+                    min1 = Math.min(coordinate1, min1);
+                    min2 = Math.min(coordinate2, min2);
+                }
+                case "?" -> {
+                    coordinate1--;  // L
+                    coordinate2++;  // R
+                    min1 = Math.min(coordinate1, min1);
+                    max2 = Math.max(coordinate2, max2);
+                }
             }
-            writer.write(String.valueOf(res));
         }
-
-
+        writer.write(String.valueOf(Math.max(max2 - min2, max1 - min1)));
         reader.close();
         writer.close();
     }
 
-    private static int calculate(final String[] arr) {
-        int left = 0;
-        int right = 2;
-        
 
-    }
 }

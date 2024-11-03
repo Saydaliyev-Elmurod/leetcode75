@@ -2,43 +2,42 @@ package leetcode75.yandex.cup;
 
 import java.io.*;
 
-public class Threee {
+public class Four {
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 //        BufferedReader reader = new BufferedReader(new FileReader("test.txt"));
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
-        String line = reader.readLine();
-        String[] arr = line.split("");
-        int coordinate1 = 0;
-        int coordinate2 = 0;
-        int max1 = 0;
-        int max2 = 0;
-        int min1 = 0;
-        int min2 = 0;
-        for (String s : arr) {
-            switch (s) {
-                case "R" -> {
-                    coordinate1++;
-                    coordinate2++;
-                    max1 = Math.max(coordinate1, max1);
-                    max2 = Math.max(coordinate2, max2);
-                }
-                case "L" -> {
-                    coordinate1--;
-                    coordinate2--;
-                    min1 = Math.min(coordinate1, min1);
-                    min2 = Math.min(coordinate2, min2);
-                }
-                case "?" -> {
-                    coordinate1--;  // L
-                    coordinate2++;  // R
-                    min1 = Math.min(coordinate1, min1);
-                    max2 = Math.max(coordinate2, max2);
-                }
+        String line;
+        long max = 100L;
+        long min = 1;
+        int count = 0;
+        label:
+        while (count < 200) {
+            count++;
+            long temp = (max + min) / 2;
+            writer.write(String.valueOf(temp));
+            writer.newLine();
+            writer.flush();
+            line = reader.readLine();
+            switch (line) {
+                case "wet":
+                    min = temp + 1;
+                    max = min * 2;
+                    break;
+                case "ok":
+                    max = temp;
+                    if (max == min) {
+                        writer.write(String.format("! %s\n", max));
+                        break label;
+                    }
+                    break;
+                case "fail":
+                    max = max / 2;
+                    break;
             }
         }
-        writer.write(String.valueOf(Math.max(max2 - min2, max1 - min1)));
+        writer.write(String.format("! %s\n", max));
         reader.close();
         writer.close();
     }

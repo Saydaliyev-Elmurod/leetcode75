@@ -1,11 +1,8 @@
 package leetcode75.yandex.trenovka6.hw2;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.stream.Collectors;
 
-public class Second {
+public class Three {
 
     public static void main(String[] args) throws IOException {
         //5 17
@@ -14,30 +11,19 @@ public class Second {
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
         String[] string = reader.readLine().split(" ");
         int n = Integer.parseInt(string[0]);
-        int k = Integer.parseInt(string[1]);
-        String[] arr = reader.readLine().split(" ");
-        int count = 0;
-
-        int[] sumArr = new int[n];
-        sumArr[0] = Integer.parseInt(arr[0]);
-        for (int i = 1; i < n; i++) {
-            int curr = Integer.parseInt(arr[i]);
-            sumArr[i] += sumArr[i - 1] + curr;
-        }
+        int r = Integer.parseInt(string[1]);
+        long count = 0;
+        int right = 1;
         int left = 0;
-        int right = 0;
-        while (left <= right && right < n) {
-            int diff;
-            if (sumArr[right] == k) count++;
-            diff = sumArr[right] - sumArr[left];
-            if (diff == k) {
-                count++;
-                right++;
-            } else if (diff < k) {
-                right++;
-            } else {
+        String[] arr = reader.readLine().split(" ");
+        while (left < right && right < n) {
+            if (Integer.parseInt(arr[right]) - Integer.parseInt(arr[left]) > r) {
+                count += n - right;
                 left++;
+            } else {
+                right++;
             }
+            if (left == right) right++;
         }
         writer.write(String.valueOf(count));
         reader.close();

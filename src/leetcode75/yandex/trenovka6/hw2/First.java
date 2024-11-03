@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Main {
+public class First {
 
     public static void main(String[] args) throws IOException {
 

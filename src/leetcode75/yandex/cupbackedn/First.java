@@ -1,36 +1,58 @@
-package leetcode75.yandex.cup;
+package leetcode75.yandex.cupbackedn;
 
 import java.io.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class First {
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-//    BufferedReader reader = new BufferedReader(new FileReader("test.txt"));
+        Map<Integer, Double> map = new HashMap<>();
+        double sum = 0.0;
+        int count = 0;
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
-        Integer t = Integer.valueOf(reader.readLine());
+        String line;
+        boolean isContinue = true;
+        while (isContinue) {
+            line = reader.readLine();
+            if (line.startsWith("+")) {
+                String[] arr = line.split(" ");
+                Integer id = Integer.parseInt(arr[1]);
+                double temp = Double.parseDouble(arr[2]);
+                map.put(id, temp);
+                sum += temp;
+                count++;
+            } else if (line.equals("?")) {
+                writer.write(String.valueOf(Math.round((sum / count) * 1000000000.0) / 1000000000.0));
+                writer.newLine();
+                writer.flush();
+            } else if (line.startsWith("-")) {
+                String[] arr = line.split(" ");
+                Integer id = Integer.parseInt(arr[1]);
+                Double oldValue = map.get(id);
+                if (oldValue != null) {
+                    sum -= oldValue;
+                    count--;
+                    map.remove(id);
+                }
+            } else if (line.startsWith("~")) {
+                String[] arr = line.split(" ");
+                Integer id = Integer.parseInt(arr[1]);
+                double temp = Double.parseDouble(arr[2]);
+                Double oldValue = map.get(id);
+                if (oldValue != null) {
+                    map.put(id, temp);
+                    sum -= oldValue;
+                    sum += temp;
+                }
 
-        while (t-- > 0) {
-            Integer n = Integer.valueOf(reader.readLine());
-            String[] arr = reader.readLine().split(" ");
-            int res = 0;
-            if (n < 3) {
-                res = 0;
-            }else{
-                res = calculate(arr);
+            } else if (line.equals("!")) {
+                isContinue = false;
             }
-            writer.write(String.valueOf(res));
+
         }
-
-
         reader.close();
         writer.close();
-    }
-
-    private static int calculate(final String[] arr) {
-        int left = 0;
-        int right = 2;
-
-return 5;
     }
 }

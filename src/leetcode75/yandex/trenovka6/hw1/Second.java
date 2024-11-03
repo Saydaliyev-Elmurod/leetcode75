@@ -2,34 +2,29 @@ package leetcode75.yandex.trenovka6.hw1;
 
 import java.io.*;
 
-public class First {
+public class Second {
 
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
-        int x1 = Integer.parseInt(reader.readLine());
-        int y1 = Integer.parseInt(reader.readLine());
-        int x2 = Integer.parseInt(reader.readLine());
-        int y2 = Integer.parseInt(reader.readLine());
-        int x = Integer.parseInt(reader.readLine());
-        int y = Integer.parseInt(reader.readLine());
-        String res = "";
-        if (x1 < x && x < x2) {
-            if (y > y2) res = "N";
-            else res = "S";
-        } else if (y1 < y && y < y2) {
-            if (x1 > x) res = "W";
-            else res = "E";
-        } else if (y > y2) {
-            res = "N";
-            if (x < x1) res += "W";
-            else res += "E";
-        } else if (y < y1) {
-            res = "S";
-            if (x < x1) res += "W";
-            else res += "E";
+        int a = Integer.parseInt(reader.readLine());//red
+        int b = Integer.parseInt(reader.readLine());//blue
+        int c = Integer.parseInt(reader.readLine());//red
+        int d = Integer.parseInt(reader.readLine());//blue
+        // 1 2 3 4
+        int redMin = Math.min(a + 1, b + 1);
+        int redMax = Math.max(a + 1, b + 1);
+        int blueMin = Math.min(c + 1, d + 1);
+        int blueMax = Math.max(c + 1, d + 1);
+        if ((a <= b && c <= d) || (a >= b && c >= d)) {
+            writer.write(redMin + " " + blueMin);
+        } else {
+            if (redMax + blueMin > redMin + blueMax) {
+                writer.write(redMin + " " + blueMax);
+            } else {
+                writer.write(redMax + " " + blueMin);
+            }
         }
-        writer.write(res);
         reader.close();
         writer.close();
     }

@@ -1,4 +1,4 @@
-package leetcode75.yandex.trenovka6;
+package leetcode75.yandex.trenovka6.hw1;
 
 import java.io.*;
 
