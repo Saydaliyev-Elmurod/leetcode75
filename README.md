@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0098-validate-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -69,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
