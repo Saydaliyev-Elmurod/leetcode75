@@ -80,4 +80,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
