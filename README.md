@@ -76,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0401-binary-watch) |
 ## Bit Manipulation
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
