@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0948-sort-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0401-binary-watch) |
 ## Bit Manipulation
