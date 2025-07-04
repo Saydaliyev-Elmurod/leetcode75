@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0948-sort-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0948-sort-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0148-sort-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
