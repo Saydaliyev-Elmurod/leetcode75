@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0148-sort-list) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1798-max-number-of-k-sum-pairs) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
