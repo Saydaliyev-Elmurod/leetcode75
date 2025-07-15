@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0611-valid-triangle-number) |
 | [0948-sort-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0948-sort-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0148-sort-list) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0611-valid-triangle-number) |
 | [0948-sort-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0948-sort-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1777-determine-if-two-strings-are-close) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0611-valid-triangle-number) |
 | [1252-break-a-palindrome](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1252-break-a-palindrome) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
