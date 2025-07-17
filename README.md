@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0611-valid-triangle-number) |
+| [0747-min-cost-climbing-stairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0948-sort-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0747-min-cost-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Math
 |  |
