@@ -126,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0747-min-cost-climbing-stairs) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0070-climbing-stairs) |
 ## Memoization
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
