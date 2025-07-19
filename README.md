@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0747-min-cost-climbing-stairs) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0611-valid-triangle-number) |
 | [1252-break-a-palindrome](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1252-break-a-palindrome) |
