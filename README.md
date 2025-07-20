@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0948-sort-an-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0070-climbing-stairs) |
