@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
 | [1252-break-a-palindrome](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1252-break-a-palindrome) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
