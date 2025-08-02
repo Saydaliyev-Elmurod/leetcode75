@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
+| [0874-backspace-string-compare](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0874-backspace-string-compare) |
 | [1252-break-a-palindrome](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1252-break-a-palindrome) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1777-determine-if-two-strings-are-close) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0067-add-binary) |
+| [0874-backspace-string-compare](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0874-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0148-sort-list) |
 | [0611-valid-triangle-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0611-valid-triangle-number) |
+| [0874-backspace-string-compare](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0874-backspace-string-compare) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Design
 |  |
