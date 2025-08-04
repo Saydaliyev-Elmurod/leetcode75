@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0198-house-robber) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0304-range-sum-query-2d-immutable) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0611-valid-triangle-number) |
 | [0747-min-cost-climbing-stairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0747-min-cost-climbing-stairs) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0074-search-a-2d-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0304-range-sum-query-2d-immutable) |
 ## Stack
 |  |
 | ------- |
@@ -182,9 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0304-range-sum-query-2d-immutable) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
