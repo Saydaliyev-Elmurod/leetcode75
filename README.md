@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3790-fruits-into-baskets-ii](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0611-valid-triangle-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0611-valid-triangle-number) |
+| [3790-fruits-into-baskets-ii](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0874-backspace-string-compare) |
+| [3790-fruits-into-baskets-ii](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -195,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0304-range-sum-query-2d-immutable) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
