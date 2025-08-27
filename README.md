@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3827-implement-router](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0611-valid-triangle-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0611-valid-triangle-number) |
+| [3827-implement-router](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3827-implement-router) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3827-implement-router](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,4 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3827-implement-router](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3827-implement-router) |
+## Ordered Set
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
