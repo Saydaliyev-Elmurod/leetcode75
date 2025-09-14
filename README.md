@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1023-time-based-key-value-store](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1023-time-based-key-value-store) |
 ## Binary Tree
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
+| [1023-time-based-key-value-store](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1023-time-based-key-value-store) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1023-time-based-key-value-store](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0341-flatten-nested-list-iterator) |
+| [1023-time-based-key-value-store](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1023-time-based-key-value-store) |
 ## Queue
 |  |
 | ------- |
