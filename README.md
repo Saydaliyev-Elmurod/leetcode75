@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0299-bulls-and-cows) |
 | [0948-sort-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0948-sort-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Tree
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
+| [0299-bulls-and-cows](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0299-bulls-and-cows) |
 | [1023-time-based-key-value-store](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1023-time-based-key-value-store) |
 ## Backtracking
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0299-bulls-and-cows](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0299-bulls-and-cows) |
 | [1023-time-based-key-value-store](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1023-time-based-key-value-store) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
