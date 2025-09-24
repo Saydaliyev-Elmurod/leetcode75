@@ -74,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0316-remove-duplicate-letters) |
 | [0341-flatten-nested-list-iterator](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0341-flatten-nested-list-iterator) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0316-remove-duplicate-letters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0299-bulls-and-cows) |
+| [0316-remove-duplicate-letters](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0316-remove-duplicate-letters) |
 | [1023-time-based-key-value-store](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1023-time-based-key-value-store) |
 ## Backtracking
 |  |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0341-flatten-nested-list-iterator) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
