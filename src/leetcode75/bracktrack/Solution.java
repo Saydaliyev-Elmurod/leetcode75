@@ -1,33 +1,31 @@
 package leetcode75.bracktrack;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.HashMap;
+import java.util.LinkedList;
+import java.util.Map;
 
 class Solution {
+    Map<Integer, Integer> map = new HashMap<>();
 
     public static void main(String[] args) {
-        subsets(new int[]{1, 2, 3});
+        Solution solution = new Solution();
+        System.out.println(solution.climbStairs(4, new int[]{5, 1, 6, 2}));
     }
 
-    static Set<List<Integer>> result;
+    public int climbStairs(int n, int[] costs) {
 
-    public static List<List<Integer>> subsets(int[] nums) {
-        result = new HashSet<>();
-        result.add(new ArrayList<>());
+        if (n <= 0) return 0;
+        if (map.containsKey(n)) return map.get(n);
 
-        for (int i = 0; i < nums.length; i++) {
-            List<Integer> list = new ArrayList<>();
-            list.add(nums[i]);
-            for (int j = i + 1; j < nums.length; j++) {
-                result.add(new ArrayList<>(list));
-                list.add(nums[j]);
-            }
-            result.add(new ArrayList<>(list));
-            // 1,2,3,4,5
-        }
-        return new ArrayList<>(result);
+        int n1 = map.getOrDefault(n - 1, climbStairs(n - 1, costs)) + costs[n - 1] + 1;
+        int n2;
+        n2 = map.getOrDefault(n - 2, climbStairs(n - 2, costs)) + costs[n - 1] + 4;
+
+        int n3;
+        n3 = map.getOrDefault(n - 3, climbStairs(n - 3, costs)) + costs[n - 1] + 9;
+
+        int min = Math.min(n1, Math.min(n2, n3));
+        map.put(n, min);
+        return min;
     }
-
 }
