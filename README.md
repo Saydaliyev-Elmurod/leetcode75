@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0948-sort-an-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0316-remove-duplicate-letters) |
 | [0341-flatten-nested-list-iterator](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0341-flatten-nested-list-iterator) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1441-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/0316-remove-duplicate-letters) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Saydaliyev-Elmurod/leetcode75/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
